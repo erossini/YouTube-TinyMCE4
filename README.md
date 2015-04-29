@@ -8,5 +8,3 @@ Browse YouTube videos, watch an embedded preview to ensure the video is the corr
 To install copy the extracted "youTube" folder into the tinymce/plugins directory. Then, add "youTube" to both the 'toolbar' and the 'plugins' tinymce initialization process.
 
 PS: you can use this with ASP.NET (all versions)
-
-[img]https://github.com/erossini/YouTube-TinyMCE4/blob/master/screenshot/youtube1.PNG?raw=true[/img]
