@@ -9,4 +9,4 @@ To install copy the extracted "youTube" folder into the tinymce/plugins director
 
 PS: you can use this with ASP.NET (all versions)
 
-https://github.com/erossini/YouTube-TinyMCE4/blob/master/screenshot/youtube1.PNG?raw=true
+[img]https://github.com/erossini/YouTube-TinyMCE4/blob/master/screenshot/youtube1.PNG?raw=true[/img]
